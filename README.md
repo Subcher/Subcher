@@ -8,7 +8,7 @@
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Glide](https://img.shields.io/badge/glide-black?style=for-the-badge&logo=glide&logoColor=white)
 
-![Webstorm](https://img.shields.io/badge/mistralai-black?style=for-the-badge&logo=mistralai&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
+![Webstorm](https://img.shields.io/badge/webstorm-black?style=for-the-badge&logo=webstorm&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ![Mistral_IA](https://img.shields.io/badge/mistral_ia-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
 
