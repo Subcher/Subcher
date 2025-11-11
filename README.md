@@ -12,7 +12,7 @@
 
 ![KeyPassXC](https://img.shields.io/badge/keepassxc-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white) ![AutoHotKey](https://img.shields.io/badge/autohotkey-448E3A?style=for-the-badge&logo=autohotkey&logoColor=white)
 
-## 🌐 Socials:
+## 🌐 How to get in touch:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iamarthurhenri/) 
 
 # 📊 GitHub Stats:
