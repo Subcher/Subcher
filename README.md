@@ -12,9 +12,6 @@
 
 ![KeyPassXC](https://img.shields.io/badge/keepassxc-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white) ![AutoHotKey](https://img.shields.io/badge/autohotkey-448E3A?style=for-the-badge&logo=autohotkey&logoColor=white)
 
-## 🌐 How to get in touch:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iamarthurhenri/) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Subcher&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Subcher&theme=dark&hide_border=false)<br/>
